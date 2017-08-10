@@ -1,0 +1,15 @@
+Buoc 1: Dang ki tai khoang tren https://github.com/
+	Chu y: Ten website cua anh se giong nhu ten tk, nen anh phai chon ten tk can than.
+	Vi du: ten tai khoang cua em la minhdh95, thi website cua em co ten mien la : https://minhdh95.github.io
+
+Buoc 2: Download va cai dat github desktop tai https://desktop.github.com/
+Buod 3: Lam theo huong dan tren trang web nay : https://pages.github.com/
+	Buoc 3.1: Tao. mot thu muc cho project ( day se la thu muc chua website cua anh) (create a repository)
+		  Repository do phai ten la username.github.io (Vi du: repository cua em la minhdh95.github.io)
+	Buoc 3.2: Copy content ben trong thu muc Long Nguyen ma em gui cho anh vao trong thu muc cua repository do(tren may tinh cua anh)
+	Buoc 3.3: Sync va commit content tren phan mem github desktop ma anh da~ tai? ve
+		 -O goc duoi ben trai cua cai phan mem github desktop se co 1 cai nut mau xanh duong ten la "commit to master". Anh go~ dai. description vao xong commit
+		 -sau khi commit xong, anh an vao muc fetch to origin o goc tren ben phai, hang thu 2 tu tren xuong. Cai nay se tai? file cua anh tu may tinh len server, khi anh go~ URL vao thi no se tu dong visit cai html co ten la index.html trong thu muc 
+Buoc 4: go~ username.github.io (username la ten tk cua anh) de xem co thanh cong hay k
+	neu k duoc thi goi em qua skype, xong share screen
+		

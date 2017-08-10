@@ -1,25 +1,11 @@
 div.backGround{
-  background-image:url("Images/drexel.jpg");
+  background-image:url("Images/city_wallpaper.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-}
-li.mainMenu{
-  display:inline-block;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333333;
+  background-repeat:
 }
 
-li.mainMenu a{
-  display:block;
-  color: white;
-  text-align: center;
-  padding: 16px;
-  text-decoration: none;
-}
-li.mainMenu a:hover{
-  background-color: #111111
+.jumbotron {
+  background-color:rgba(249,249,249, 0.8) !important;
 }
